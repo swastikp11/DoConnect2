@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Angular
+node_modules/
+.angular/
+dist/
+
+# Uploads
+wwwroot/uploads/
+
+# Zip files
+*.zip
+
+# Other
+DoConnect2FrontEnd
